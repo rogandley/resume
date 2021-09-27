@@ -24,7 +24,7 @@ const jobs = [
         contactEmail: 'cathy@szy.com',
         items: [
             'I was a developer on a Windows application that manages and maintains a database of technical documents using SQL and Visual Basic.',
-            'I assisted other employees in visiting customers of the consulting services and finding solutions to their hardware problems. We helped raise awareness of online safety through various email campaigns and in person.'
+            'I assisted other employees in visiting customers of the consulting services and finding solutions to their hardware problems. We helped raise awareness of online safety through various campaigns.'
         ]
     },
 ]
