@@ -12,8 +12,8 @@ body {
   background-color: grey;
   overflow-x: hidden;
   --body-text: #494052;
-  --primary-contrast: #AC89D1;
-  --secondary-contrast: #F291B7;
+  --primary-contrast: #7EA86F;
+  --secondary-contrast: #CFA655;
 }
 
 h1 {
