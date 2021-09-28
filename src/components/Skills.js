@@ -1,78 +1,78 @@
 const skills = [
     {
-        name: 'Unreal',
+        name: 'Selenium',
         lang: false,
-        proficiency: 3.5
+        proficiency: 3
     },
     {
-        name: 'Unity',
+        name: 'Machine Learning',
         lang: false,
-        proficiency: 4.5
+        proficiency: 4
     },
     {
         name: 'Git',
         lang: false,
-        proficiency: 4.5
+        proficiency: 4
     },
     {
         name: 'SQL',
         lang: false,
-        proficiency: 2
+        proficiency: 5
     },
     {
-        name: 'HTML 5 & CSS',
+        name: 'Agile Development',
         lang: false,
-        proficiency: 5
+        proficiency: 4
     },
     {
         name: 'Node.js',
         lang: false,
-        proficiency: 5
+        proficiency: 3.5
     },
     {
         name: 'React & React Native',
         lang: false,
-        proficiency: 5
+        proficiency: 4
     },
     {
-        name: 'AWS',
-        lang: false,
-        proficiency: 3
+        name: 'PHP',
+        lang: true,
+        proficiency: 3.5
     },
     {
         name: 'C++',
         lang: true,
-        proficiency: 3.5
+        proficiency: 4
     },
     {
         name: 'C#',
         lang: true,
-        proficiency: 4
+        proficiency: 3
     },
     {
         name: 'C',
         lang: true,
-        proficiency: 3
+        proficiency: 3.5
     },
     {
         name: 'Javascript',
         lang: true,
-        proficiency: 5
+        proficiency: 4
     },
     {
         name: 'Python',
         lang: true,
-        proficiency: 3
+        proficiency: 5
     },
     {
         name: 'Ruby',
         lang: true,
-        proficiency: 2
+        proficiency: 2.5
     },
     {
         name: 'Java',
         lang: true,
-        proficiency: 3.5
+        proficiency: 5
     }
 ]
 
