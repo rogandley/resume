@@ -12,7 +12,7 @@ const skills = [
     {
         name: 'Git',
         lang: false,
-        proficiency: 4
+        proficiency: 4.5
     },
     {
         name: 'SQL',
@@ -22,7 +22,7 @@ const skills = [
     {
         name: 'Agile Development',
         lang: false,
-        proficiency: 4
+        proficiency: 3.5
     },
     {
         name: 'QA Automation',
@@ -37,12 +37,12 @@ const skills = [
     {
         name: 'MATLAB',
         lang: true,
-        proficiency: 4.5
+        proficiency: 4
     },
     {
         name: 'C++',
         lang: true,
-        proficiency: 4
+        proficiency: 4.5
     },
     {
         name: 'C#',
