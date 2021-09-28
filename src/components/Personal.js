@@ -24,7 +24,6 @@ export default () => {
                 <div className={'personal--links'}>
                     <PrinterLink className={'personal--link'} url={project.link} text={'GitHub'} prependIcon={'github'}/>
                     {project.demoLink ? <PrinterLink className={'personal--link'} url={project.demoLink} text={'Demo'} prependIcon={'links'}/> : undefined}
-					{project.hidden ? <PrinterLink className={'personal--link'} text={'Class Project'}/> : undefined}
                 </div>
             </div>
             <div className={'personal--technologies'}>{project.technologies.join(' • ')}</div>
