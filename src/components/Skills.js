@@ -25,9 +25,9 @@ const skills = [
         proficiency: 4
     },
     {
-        name: 'Node.js',
+        name: 'QA Automation',
         lang: false,
-        proficiency: 3.5
+        proficiency: 4
     },
     {
         name: 'React & React Native',
