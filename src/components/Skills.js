@@ -2,7 +2,7 @@ const skills = [
     {
         name: 'Selenium',
         lang: false,
-        proficiency: 3
+        proficiency: 2.5
     },
     {
         name: 'Machine Learning',
@@ -32,7 +32,7 @@ const skills = [
     {
         name: 'React & React Native',
         lang: false,
-        proficiency: 4
+        proficiency: 3
     },
     {
         name: 'MATLAB',
