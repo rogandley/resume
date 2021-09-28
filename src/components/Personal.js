@@ -10,7 +10,6 @@ const projects = [
     {
         name: 'GPS to KML',
 		link: '',
-		hidden: 'true',
         description: 'Program that takes in raw data from a GPS and transforms it into a Google Earth readable KML file, plotting points at which the car goes uphill, downhill, stops, or is parked during an errand.',
         technologies: ['Python', 'Pynmea', 'Pandas', 'Google Earth']
     },
