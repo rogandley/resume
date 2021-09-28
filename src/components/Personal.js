@@ -22,7 +22,7 @@ export default () => {
             <div className={'personal--repo-technologies'}>
                 <h2 className={'personal--name'}>{project.name}</h2>
                 <div className={'personal--links'}>
-                    <PrinterLink className={'personal--link'} url={project.link} text={'GitHub'} prependIcon={'github'}/>
+                    {project.link ? <PrinterLink className={'personal--link'} url={project.link} text={'GitHub'} prependIcon={'github'}/> : undefined}
                     {project.demoLink ? <PrinterLink className={'personal--link'} url={project.demoLink} text={'Demo'} prependIcon={'links'}/> : undefined}
                 </div>
             </div>
