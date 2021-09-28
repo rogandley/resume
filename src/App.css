@@ -11,7 +11,7 @@ body {
   height: 100vh;
   background-color: grey;
   overflow-x: hidden;
-  --body-text: #494052;
+  --body-text: #405245;
   --primary-contrast: #7EA86F;
   --secondary-contrast: #CFA655;
 }
