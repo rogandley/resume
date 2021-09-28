@@ -35,9 +35,9 @@ const skills = [
         proficiency: 4
     },
     {
-        name: 'PHP',
+        name: 'MATLAB',
         lang: true,
-        proficiency: 3.5
+        proficiency: 4.5
     },
     {
         name: 'C++',
@@ -72,7 +72,7 @@ const skills = [
     {
         name: 'Java',
         lang: true,
-        proficiency: 5
+        proficiency: 4.5
     }
 ]
 

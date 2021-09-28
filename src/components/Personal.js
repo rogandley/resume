@@ -10,8 +10,14 @@ const projects = [
     {
         name: 'GPS to KML',
 		link: '',
-        description: 'Program that takes in raw data from a GPS and transforms it into a Google Earth readable KML file, plotting points at which the car goes uphill, downhill, stops, or is parked during an errand.',
+        description: 'Python program that takes in raw data from a GPS and transforms it into a Google Earth readable KML file, plotting points at which the car goes uphill, downhill, stops, or is parked during an errand.',
         technologies: ['Python', 'Pynmea', 'Pandas', 'Google Earth']
+    },
+	{
+        name: 'Jigsaw AI',
+		link: '',
+        description: 'This program uses computer vision techniques learned in class in order to take in images of a number of jigsaw pieces. It detects edges and curves along with simple shapes to piece all of the given images into a larger image based on the place they should be.',
+        technologies: ['MATLAB', 'Image Processing', 'Data Mining']
     },
 ]
 
