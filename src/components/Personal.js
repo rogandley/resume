@@ -9,7 +9,7 @@ const projects = [
     },
     {
         name: 'GPS to KML',
-        link: 'Part of School Project',
+		hidden: 'true',
         description: 'Program that takes in raw data from a GPS and transforms it into a Google Earth readable KML file, plotting points at which the car goes uphill, downhill, stops, or is parked during an errand.',
         technologies: ['Python', 'Pynmea', 'Pandas', 'Google Earth']
     },
@@ -24,6 +24,7 @@ export default () => {
                 <div className={'personal--links'}>
                     {project.link ? <PrinterLink className={'personal--link'} url={project.link} text={'GitHub'} prependIcon={'github'}/> : undefined}
                     {project.demoLink ? <PrinterLink className={'personal--link'} url={project.demoLink} text={'Demo'} prependIcon={'links'}/> : undefined}
+					{project.hidden ? <PrinterLink className={'personal--link'} text={'Class Project'}/> : undefined}
                 </div>
             </div>
             <div className={'personal--technologies'}>{project.technologies.join(' • ')}</div>
