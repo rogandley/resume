@@ -4,7 +4,8 @@ import PrinterLink from "./PrinterLink"
 const about = [
     'I am a Software Developer dedicated to learning new technologies and working on team projects.',
     'My goal is to integrate bleeding edge developments in tech and develop solutions to unique problems.',
-    'I have experience working in multidisciplinary teams as well as working independently.'
+    'I have experience working in multidisciplinary teams as well as working independently.',
+	'With nearly a decade of coding experience under my belt, I am a strong addition to any team.'
 ].join(' ')
 
 // eslint-disable-next-line import/no-anonymous-default-export

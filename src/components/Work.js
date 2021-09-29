@@ -11,7 +11,7 @@ const jobs = [
         contactEmail: 'paul.wisotzke@carrier.com',
         items: [
             'I worked on developing an in-house natural language accessible QA automation tools built from the ground up with Unix scripts and Java with a team through GitHub pipelines.',
-            'I participated in daily standups as part of the Agile delivery process. I also attended and provided opinions on developments in the UX design team.',
+            'I participated in daily standups as part of the Agile delivery process. I also engaged in weekly reviews with the UX design team.',
             'I tested assorted hardware for problems related to new code including cameras, card scanners, microphones, and servers.',
         ]
     },
@@ -24,7 +24,8 @@ const jobs = [
         contactEmail: 'cathy@szy.com',
         items: [
             'I was a developer on a Windows application that manages and maintains a database of technical documents using SQL and Visual Basic.',
-            'I assisted other employees in visiting customers of the consulting services and finding solutions to their hardware problems. We helped raise awareness of online safety through various campaigns.'
+            'I worked with other employees in visiting customers of the consulting services of the company and found solutions to various hardware problems.',
+			'We helped raise awareness of online safety regarding data privacy and cloud backups through various campaigns.',
         ]
     },
 ]
