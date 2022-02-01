@@ -10,8 +10,8 @@ const jobs = [
         contactTitle: 'Test and Validation Manager',
         contactEmail: 'paul.wisotzke@carrier.com',
         items: [
-            'I worked on developing an in-house natural language accessible QA automation tools built from the ground up with Unix scripts and Java with a team through GitHub pipelines.',
-            'I participated in international daily standups as part of the Agile delivery process. I also engaged in weekly reviews with the UX design team.',
+            'I worked on developing an in-house natural language accessible Web QA automation tools built from the ground up with HandleBars scripts and Java with a mentor through the Jenkins pipelines.',
+            'I participated in international daily standups as part of the Agile delivery process.',
             'I tested assorted hardware for problems related to new code including cameras, card scanners, microphones, and servers.',
         ]
     },
