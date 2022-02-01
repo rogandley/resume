@@ -24,7 +24,7 @@ const jobs = [
         contactEmail: 'cathy@szy.com',
         items: [
             'I was a developer on a Windows application that manages and maintains a database of technical documents using SQL and Visual Basic.',
-            'I collaborated with an artist on a team developing business solutions in Unity for mixed reality using Microsoft/''s HoloLens.',
+            'I collaborated with an artist on a team developing business solutions in Unity for mixed reality using Microsoft HoloLens.',
             'I worked with other employees in visiting customers of the consulting services of the company and found solutions to various technical problems.',
         ]
     },
